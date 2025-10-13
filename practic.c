@@ -19,10 +19,9 @@ scanf("%d",&maths);
 printf ("enter marks of computer");
 scanf("%d",&computer);
 
-
-
 total=hindi+english+maths+computer;
 
 printf(" total marks is %d");
+
     return 0;
 }
