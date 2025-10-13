@@ -21,7 +21,7 @@ scanf("%d",&computer);
 
 total=hindi+english+maths+computer;
 
-printf(" total marks is %d");
+printf("total marks is %d",total);
 
     return 0;
 }
