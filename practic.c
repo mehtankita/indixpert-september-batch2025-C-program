@@ -5,7 +5,7 @@ int hindi;
 int english;
 int maths;
 int computer;
-int total;
+int total; 
 float percen;
 
 printf("enter marks of hindi: ");
