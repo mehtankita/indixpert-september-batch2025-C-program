@@ -23,7 +23,7 @@ scanf("%d",&computer);
 total=hindi+english+maths+computer;
 percen=total/4;
 
-printf("total marks is %d",total);
+printf("total marks is %d",total); 
 printf("percen is : %f",percen);
 
     return 0;
